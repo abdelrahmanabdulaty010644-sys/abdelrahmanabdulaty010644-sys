@@ -37,7 +37,7 @@ I also enjoy providing practical suggestions that can improve workflow and suppo
 ---
 
 ### 📂 Featured Projects
-*(قريباً - هنا هتحط روابط مشاريع تحليل البيانات بتاعتك لما ترفعها)*
+
 - 📈 [Project Name](https://github.com/abdelrahmanabdulaty010644-sys) - Brief description of the dashboard or business case.
 
 ---
