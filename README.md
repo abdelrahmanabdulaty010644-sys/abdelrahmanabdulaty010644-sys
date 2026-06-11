@@ -6,23 +6,22 @@
 
 ## 🚀 About Me
 
-I am a passionate **Data Analyst** dedicated to turning raw data into actionable business insights. I love working with data visualization, statistical analysis, and building interactive dashboards that help in making data-driven decisions.
+Data Analyst specialist aiming to organize data and dive deep into details to deliver accurate and reliable insights.
+I carefully review every analysis before presenting it to ensure the results are clear and trustworthy, helping clients make better data-driven decisions.
+I also enjoy providing practical suggestions that can improve workflow and support.
 
 - 💼 Looking for opportunities as a **Data Analyst / BI Analyst**.
 - 🌱 I’m currently learning and improving my skills in advanced data modeling and business metrics.
 - 🥅 2026 Goals: Build and ship more data projects to solve real business challenges!
-- ⚡ Fun fact: I believe that true value lies in understanding the business context and extracting actionable insights, not just mastering technical tools.
 
 ---
 
 ### 📊 Languages and Tools:
 
 [<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/SQL)
-[<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
-[<img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />](https://pandas.pydata.org/)
-[<img align="left" alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />](https://numpy.org/)
+[<img align="left" alt="Power BI" width="30px" src="https:// raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" style="padding-right:10px;" />](https://powerbi.microsoft.com/)
 [<img align="left" alt="Microsoft Excel" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.microsoft.com/en-us/microsoft-365/excel)
-[<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
+[<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
 
 <br />
 <br />
