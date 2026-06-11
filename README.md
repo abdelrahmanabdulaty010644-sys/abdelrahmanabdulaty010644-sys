@@ -38,8 +38,7 @@ I also enjoy providing practical suggestions that can improve workflow and suppo
 
 ### 📂 Featured Projects
 
-- 📈 [Project Name](https://github.com/abdelrahmanabdulaty010644-sys) - Brief description of the dashboard or business case.
-
+- - 📊 [HR Analytics Dashboard](https://github.com/abdelrahmanabdulaty010644-sys/HR-Analsys) - Dynamic Power BI dashboard optimizing workforce management, analyzing salary structures, diversity metrics, and performance incentives for 900+ employees.
 ---
 
 ### 📨 Connect with Me
