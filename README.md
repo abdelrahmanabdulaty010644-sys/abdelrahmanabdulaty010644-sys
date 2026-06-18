@@ -38,9 +38,8 @@ I also enjoy providing practical suggestions that can improve workflow and suppo
 
 ### 📂 Featured Projects
 
-- - 📊 [HR Analytics Dashboard](https://github.com/abdelrahmanabdulaty010644-sys/HR-Analsys) - Dynamic Power BI dashboard optimizing workforce management, analyzing salary structures, diversity metrics, and performance incentives for 900+ employees.
----
-
+- 📱 [Global Mobile Phone Market Analysis](https://github.com/abdelrahmanabdulaty010644-sys/phone_Analysis) - End-to-end BI project transforming raw web data into strategic insights. Features web scraping via Power BI Web Connector, advanced data cleansing in Power Query, and interactive dashboard design tracking 5.77B global device sales, market shifts, and historical brand dominance.
+- 📊 [HR Analytics Dashboard](https://github.com/abdelrahmanabdulaty010644-sys/HR-Analsys) - Dynamic Power BI dashboard optimizing workforce management, analyzing salary structures, diversity metrics, and performance incentives for 900+ employees.
 ### 📨 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mohamed-1034b7387/)
