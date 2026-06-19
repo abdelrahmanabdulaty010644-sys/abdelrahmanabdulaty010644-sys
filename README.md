@@ -24,7 +24,6 @@ I also enjoy providing practical suggestions that can improve workflow and suppo
 [<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
 
 <br />
-<br />
 
 ---
 
@@ -43,6 +42,7 @@ I also enjoy providing practical suggestions that can improve workflow and suppo
 - 📈 [Social Media Engagement Analysis](https://github.com/abdelrahmanabdulaty010644-sys/Social-Media-Performance-Dashbord) - Marketing analytics project uncovering the correlation between post length and cross-platform conversion metrics. Analyzed over half a billion views across Facebook, Instagram, and Twitter to optimize engagement rates and content structures.
 - 📱 [Global Mobile Phone Market Analysis](https://github.com/abdelrahmanabdulaty010644-sys/phone_Analysis) - End-to-end BI project transforming raw web data into strategic insights. Features web scraping via Power BI Web Connector, advanced data cleansing in Power Query, and interactive dashboard design tracking 5.77B global device sales, market shifts, and historical brand dominance.
 - 📊 [HR Analytics Dashboard](https://github.com/abdelrahmanabdulaty010644-sys/HR-Analsys) - Dynamic Power BI dashboard optimizing workforce management, analyzing salary structures, diversity metrics, and performance incentives for 900+ employees.
+- 📊 [Executive Sales Dashboard](https://github.com/abdelrahmanabdulaty010644-sys/Executive-Sales-Dashboard-Global-Performance-Profitability-Analysi) - Enterprise-grade Power BI dashboard analyzing a $110.34M global sales portfolio. Leveraged custom DAX measures to monitor high-level KPIs (Sales, Profit, and Profit Margin) and deployed multi-attribute slicers to uncover that the Bikes category ($10.52M profit) and the US Southwest region ($24.32M) drove the business's macro growth.
 
 ---
 
