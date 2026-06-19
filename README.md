@@ -19,7 +19,7 @@ I also enjoy providing practical suggestions that can improve workflow and suppo
 ### 📊 Languages and Tools:
 
 [<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/SQL)
-[<img align="left" alt="Power BI" width="30px" src="https:// raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" style="padding-right:10px;" />](https://powerbi.microsoft.com/)
+[<img align="left" alt="Power BI" width="30px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" style="padding-right:10px;" />](https://powerbi.microsoft.com/)
 [<img align="left" alt="Microsoft Excel" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.microsoft.com/en-us/microsoft-365/excel)
 [<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
 
@@ -42,5 +42,16 @@ I also enjoy providing practical suggestions that can improve workflow and suppo
 - 📈 [Social Media Engagement Analysis](https://github.com/abdelrahmanabdulaty010644-sys/Social-Media-Performance-Dashbord) - Marketing analytics project uncovering the correlation between post length and cross-platform conversion metrics. Analyzed over half a billion views across Facebook, Instagram, and Twitter to optimize engagement rates and content structures.
 - 📱 [Global Mobile Phone Market Analysis](https://github.com/abdelrahmanabdulaty010644-sys/phone_Analysis) - End-to-end BI project transforming raw web data into strategic insights. Features web scraping via Power BI Web Connector, advanced data cleansing in Power Query, and interactive dashboard design tracking 5.77B global device sales, market shifts, and historical brand dominance.
 - 📊 [HR Analytics Dashboard](https://github.com/abdelrahmanabdulaty010644-sys/HR-Analsys) - Dynamic Power BI dashboard optimizing workforce management, analyzing salary structures, diversity metrics, and performance incentives for 900+ employees.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mohamed-1034b7387/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.abdulaty@gmail.com)
+
+---
+
+### 🌐 Connect with Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdelrahman-mohamed-1034b7387/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdelrahman.abdulaty@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
